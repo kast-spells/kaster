@@ -1,7 +1,7 @@
 apiVersion: v2
-name: kaster
-version: 1.2.1
-description: a kaster for the glyphs system.
+name: freeForm
+version: 1.0.0
+description: free form glyph
 home: https://github.com/kast-spells
 sources:
   - https://github.com/kast-spells/kast-release

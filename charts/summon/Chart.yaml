@@ -1,7 +1,7 @@
 apiVersion: v2
-name: kaster
-version: 1.2.1
-description: a kaster for the glyphs system.
+name: summon
+version: 1.0.0
+description: the summon chart of kast to create microservices or run conainers
 home: https://github.com/kast-spells
 sources:
   - https://github.com/kast-spells/kast-release
